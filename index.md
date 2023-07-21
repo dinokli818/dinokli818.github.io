@@ -4,11 +4,11 @@ layout: page
 
 # About Me
 
-<img src="https://caihanlin.com/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://dinokli818.github.io/images/" class="floatpic" width="360" height="480">
 
 Here is **Haolin Li (Dinok, [李浩林](https://dinokli818.github.io/file/李浩林-个人简历.pdf))**.
 
-I am a Master Student at Harbin Institute of Technology. I am extremely fortunate to be advised by [Prof. Zhan Zhang](http://homepage.hit.edu.cn/zhangzhanhit?lang=zh) and [Prof. Hongwei Liu](http://homepage.hit.edu.cn/liuhongwei?lang=zh). Here is [my Resume](https://dinokli818.github.io/file/CV-HaolinLi.pdf).
+I am a Master Student at Harbin Institute of Technology. I am extremely fortunate to be advised by [Prof. Zhan Zhang](http://homepage.hit.edu.cn/zhangzhanhit?lang=zh) and [Prof. Hongwei Liu](http://homepage.hit.edu.cn/liuhongwei?lang=zh). Here is [my CV](https://dinokli818.github.io/file/CV-HaolinLi.pdf).
 
 
 ## Academic Background
@@ -37,6 +37,6 @@ My research is focused on the practical challenges in Distributed Computing & Re
 - **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
 - **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
 - **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
-- **Sep 2022：**Happy to be nominated for the China National Scholarship.
-- **Jun 2022：**Summer Research Intern at University of Cambridge, advised by [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/ ).
+
+
 
