@@ -3,23 +3,17 @@ layout: page
 permalink: /publications-zh/index.html
 title: Publications-zh
 ---
+# 发表
+更新时间：2023/07/23 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
 
-## 数学建模竞赛论文
+## 学位论文
 
-- [重塑马塞马拉的无上辉煌 (英文)](https://caihanlin.com/mypaper/modeling/202302COMAP.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 徐哲壮 (指导老师)<br>2023年02月美国大学生数学建模竞赛特等奖提名**Finalist** (Top 1%)<br>
+- [基于强化学习的Flink资源弹性调度机制](https://dinokli818.github.io/mypaper/thesis/AI-thesis.pdf)<br>**李浩林**（指导老师：张展）
+<br>*本科学位论文，容错与移动计算实验室*
 
-  
-
-- [基于改进型调度算法的无人机遂行编队飞行研究](https://caihanlin.com/mypaper/modeling/202209CUMCM.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年09月“高教社杯”全国大学生数学建模竞赛福建赛区本科组**一等奖**<br>
-
-  
-
-- [基于多目标规划模型的交通枢纽最优布局分析](https://caihanlin.com/mypaper/modeling/202206.pdf)<br>**蔡汉霖**, 吴雨菲, 罗文轩, 周勇 (指导老师)<br>2022年06月“南威杯”福州大学数学建模竞赛本科组**三等奖**<br>
-
-## 工业实习论文
-
-- [基于物联网的智慧工厂安全巡检系统](https://caihanlin.com/mypaper/thesis/IP-thesis.pdf)<br>**蔡汉霖**，徐哲壮（指导老师）<br>大三学年工业实习报告（2023/02 - 2023/07）<br>
+- [边缘环境下流处理系统适应性弹性调度技术的研究](https://dinokli818.github.io/mypaper/thesis/MA-thesis.pdf)<br>**李浩林**（指导老师：刘宏伟）
+<br>*硕士学位论文，容错与移动计算实验室*
 
 
 
-更新时间：2023/07/02 &nbsp;  [English Version (英文)](https://caihanlin.com/publications/)
+
