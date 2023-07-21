@@ -10,14 +10,13 @@ title: Hobbies
 
 <div class="third">
 <img src="/images/workout1.JPG">
-
 </div>
 <br>Workout makes me fell aliving.
 
 ## Past Hobbies
 
-I previously enjoyed flow arrangement, guitar palying. However, I have no time to do any of these things recently.
-
+I previously enjoyed flow arrangement, guitar palying and CD collection. 
+<img src="/images/flowerarrangement1.JPG">
 
 ## Chat with me
 
