@@ -17,7 +17,7 @@ I am a Master Student at Harbin Institute of Technology. I am extremely fortunat
 
 - **Sep 2017 - Jun 2021:** Harbin Institute of Technology (B.Eng.)
 - **Jul 2019 - Jul 2022:** Harbin Institute of Technology (B.Eng.)
-- **Sep 2021 - Sep 2021:** Harbin Institute of Technology (M.Eng.)
+- **Sep 2021 - Sep 2023:** Harbin Institute of Technology (M.Eng.)
 <br>
 
 ## Research Interests
