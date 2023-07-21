@@ -30,9 +30,9 @@ I am a Master Student at Harbin Institute of Technology. I am extremely fortunat
 
 ## News and Updates
 
-- **Sep 2023:**Delighted to have successfully defended my Master's thesis.
+- **Sep 2023:**Delighted to have successfully defended [my Master's thesis](https://dinokli818.github.io/publications).
 - **Aug 2023:**Excited to have a paper accepted for ICAROB 2023. 
-- **Jun 2023:**Proud to have successfully defended my second Bachelor's thesis.
+- **Jun 2023:**Proud to have successfully defended [my second Bachelor's thesis](https://dinokli818.github.io/publications).
 - **Mar 2022：**Began my role as a research assistant at the FTCL Lab, under the guidance of  [Prof. Decheng Zuo](http://homepage.hit.edu.cn/zuodecheng?lang=zh).
 
 ## Chat with me
