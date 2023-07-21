@@ -29,4 +29,4 @@ title: Awards-zh
 - 2017年09月-2018年04月：哈工大土木工程学院铸魂合唱团副主席
 
 
-更新时间：2023/07/21&nbsp;   [English Version (英文)](https://caihanlin.com/awards/)
+更新时间：2023/07/21&nbsp;   [English Version (英文)](https://dinokli818.github.io/awards/)

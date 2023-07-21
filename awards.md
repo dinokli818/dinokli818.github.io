@@ -27,4 +27,4 @@ title: Awards
 - Sep 2018 - Jan 2019：Planning officer of the second "Ice and Snow Carnival" of Harbin Institute of Technology
 - Sep 2017 - Apr 2018：Vice Chairman of the Soul Casting Choir, School of Civil Engineering, Harbin Institute of Technology
 
-Lastest Update: 21st Jul 2023 &nbsp; [中文 (Chinese Version)](https://caihanlin.com/awards-zh/)
+Latest Update: 21st Jul 2023 &nbsp; [中文 (Chinese Version)](https://dinokli818.github.io/awards-zh/)
