@@ -35,5 +35,15 @@ I am a Master Student at Harbin Institute of Technology. I am extremely fortunat
 - **Jun 2023:**Proud to have successfully defended my second Bachelor's thesis.
 - **Mar 2022：**Began my role as a research assistant at the FTCL Lab, under the guidance of  [Prof. Decheng Zuo](http://homepage.hit.edu.cn/zuodecheng?lang=zh).
 
+## Chat with me
+
+**Jul 2023:** I have set up the [online-coffee-time](https://calendly.com/dinokli818/online-coffee-time) (Inspired by **[Shangzhe Wu](https://elliottwu.com/)**). Welcome to chat with me!
+
+<!-- Calendly inline widget begin -->
+
+<div class="calendly-inline-widget" data-url="https://calendly.com/dinokli818/online-coffee-time" style="min-width:320px;height:630px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
+<!-- Calendly inline widget end -->
+
 
 

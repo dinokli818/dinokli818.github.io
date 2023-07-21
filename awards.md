@@ -20,10 +20,8 @@ title: Awards
 
 
 ## Services
-
-- Jun 2022 - Present：IEEE Student Membership
-- Jul 2022 - Sep 2022：IEEE Student Membership
 - Jul 2022 - Sep 2022：Outstanding Volunteer at Harbin Institute of Technology Center
+- Jun 2022 - Present：IEEE Student Membership
 - Sep 2018 - Jan 2019：Planning officer of the second "Ice and Snow Carnival" of Harbin Institute of Technology
 - Sep 2017 - Apr 2018：Vice Chairman of the Soul Casting Choir, School of Civil Engineering, Harbin Institute of Technology
 
