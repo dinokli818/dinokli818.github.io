@@ -27,8 +27,6 @@ I am a Master Student at Harbin Institute of Technology. I am extremely fortunat
   - Incorporating aspects of edge computing
 - Broader Interest in Distributed Systems: I also maintain an interest in exploring resource allocation strategies within diverse distributed systems, such as microservices and machine learning systems.
 
-My research is focused on the practical challenges in Distributed Computing & Resource Systems. I specialize in resource allocation, task scheduling, and integration with edge computing. Beyond this, my interests extend to resource management in diverse distributed systems like microservices and machine learning. My goal is to apply these transformative technologies to improve efficiency and contribute to our digital society.
-
 
 ## News and Updates
 
