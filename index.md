@@ -8,7 +8,7 @@ layout: page
 
 Here is **Haolin Li (Dinok, [李浩林](https://dinokli818.github.io/file/李浩林-个人简历.pdf))**.
 
-I am a Master Student at Harbin Institute of Technology. I am extremely fortunate to be advised by [Prof. Zhan Zhang](http://homepage.hit.edu.cn/zhangzhanhit?lang=zh) and [Prof. Hongwei Liu](http://homepage.hit.edu.cn/liuhongwei?lang=zh). Here is [my CV](https://dinokli818.github.io/file/CV-HaolinLi.pdf).
+I am now a Master Student at Harbin Institute of Technology. I am extremely fortunate to be advised by [Prof. Zhan Zhang](http://homepage.hit.edu.cn/zhangzhanhit?lang=zh) and [Prof. Hongwei Liu](http://homepage.hit.edu.cn/liuhongwei?lang=zh). Here is [my CV](https://dinokli818.github.io/file/CV-HaolinLi.pdf).
 
 
 ## Academic Background
@@ -31,9 +31,8 @@ I am a Master Student at Harbin Institute of Technology. I am extremely fortunat
 ## News and Updates
 
 - **Sep 2023:**Delighted to have successfully defended [my Master's thesis](https://dinokli818.github.io/publications).
-- **Aug 2023:**Excited to have a paper accepted for ICAROB 2023. 
-- **Jun 2023:**Proud to have successfully defended [my second Bachelor's thesis](https://dinokli818.github.io/publications).
-- **Mar 2022：**Began my role as a research assistant at the FTCL Lab, under the guidance of  [Prof. Decheng Zuo](http://homepage.hit.edu.cn/zuodecheng?lang=zh).
+- **Jun 2022:**Proud to have successfully defended [my second Bachelor's thesis](https://dinokli818.github.io/publications).
+- **Mar 2022:**Began my role as a research assistant at the FTCL Lab, under the guidance of  [Prof. Decheng Zuo](http://homepage.hit.edu.cn/zuodecheng?lang=zh).
 
 ## Chat with me
 
