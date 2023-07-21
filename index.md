@@ -32,11 +32,10 @@ My research is focused on the practical challenges in Distributed Computing & Re
 
 ## News and Updates
 
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Happy to win the Finalist Award in MCM 2023.
-- **Feb 2023：**[**FZU-Flying-Book 福州大学飞跃手册**](https://fzu-fly.online/) has been published!
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Dec 2022：**Research assistant at IACTIP Lab, advised by [Prof. Zhezhuang Xu](https://dqxy.fzu.edu.cn/en/info/1009/1072.htm).
+- **Sep 2023:**Delighted to have successfully defended my Master's thesis.
+- **Aug 2023:**Excited to have a paper accepted for ICAROB 2023. 
+- **Jun 2023:**Proud to have successfully defended my second Bachelor's thesis.
+- **Mar 2022：**Began my role as a research assistant at the FTCL Lab, under the guidance of  [Prof. Decheng Zuo](http://homepage.hit.edu.cn/zuodecheng?lang=zh).
 
 
 
