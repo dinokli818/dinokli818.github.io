@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://dinokli818.github.io/images/" class="floatpic" width="360" height="480">
+<img src="https://dinokli818.github.io/fav.jpg" class="floatpic" width="360" height="480">
 
 Here is **Haolin Li (Dinok, [李浩林](https://dinokli818.github.io/file/李浩林-个人简历.pdf))**.
 
