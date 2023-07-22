@@ -11,7 +11,7 @@ title: Hobbies
 <div class="third">
 <img src="/images/workout1.jpg">
 </div>
-<br>Workout makes me fell aliving.
+<br>Workout makes me fell aliving, and I enojy its bady shaping effect. 
 
 ## Past Hobbies
 

@@ -21,11 +21,12 @@ I am now a Master Student at Harbin Institute of Technology. I am extremely fort
 <br>
 
 ## Research Interests
-
+My research interests include:
 - Distributed Computing & Resource Systems
   - Specializing in resource allocation and task scheduling
   - Incorporating aspects of edge computing
 - Broader Interest in Distributed Systems: I also maintain an interest in exploring resource allocation strategies within diverse distributed systems, such as microservices and machine learning systems.
+- Reinforcement Learning
 
 
 ## News and Updates
