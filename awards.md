@@ -5,9 +5,9 @@ title: Awards
 ---
 
 ## Scholarships
-- Sep 2022：**2nd Academic Scholarship** (about $1000)
-- Sep 2021：**3nd Academic Scholarship** (about $300)
-- Mar 2021：**Individual People's Scholarship** (about $100)
+- Sep 2022：**2nd Graduate Academic Scholarship** (about $1000)
+- Sep 2021：**3nd Graduate Academic Scholarship** (about $300)
+- Mar 2021：**People's Scholarship Prominent Individual Award** (about $100)
 
 ## Competitions
 
@@ -16,11 +16,10 @@ title: Awards
 
 ## Honors
 
-- Oct 2022：Outstanding student of college 
+- Oct 2022：School Level Outstanding Student
 
 
 ## Services
-- Jul 2022 - Sep 2022：Outstanding Volunteer at Harbin Institute of Technology Center
 - Jun 2022 - Present：IEEE Student Membership
 - Sep 2018 - Jan 2019：Planning officer of the second "Ice and Snow Carnival" of Harbin Institute of Technology
 - Sep 2017 - Apr 2018：Vice Chairman of the Soul Casting Choir, School of Civil Engineering, Harbin Institute of Technology

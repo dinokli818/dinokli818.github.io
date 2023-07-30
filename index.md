@@ -8,7 +8,7 @@ layout: page
 
 Here is **Haolin Li (Dinok, [李浩林](https://dinokli818.github.io/file/李浩林-个人简历.pdf))**.
 
-I am now a Master Student at Harbin Institute of Technology. I am extremely fortunate to be advised by [Prof. Zhan Zhang](http://homepage.hit.edu.cn/zhangzhanhit?lang=zh) and [Prof. Hongwei Liu](http://homepage.hit.edu.cn/liuhongwei?lang=zh). Here is [my CV](https://dinokli818.github.io/file/CV-HaolinLi.pdf).
+I am now a Master Student at Harbin Institute of Technology. Here is [my CV](https://dinokli818.github.io/file/CV-HaolinLi.pdf).
 
 
 ## Academic Background
@@ -21,12 +21,11 @@ I am now a Master Student at Harbin Institute of Technology. I am extremely fort
 <br>
 
 ## Research Interests
-My research interests include:
+I am particularly interested in the following areas of study:
 - Distributed Computing & Resource Systems
-  - Specializing in resource allocation and task scheduling
-  - Incorporating aspects of edge computing
-- Broader Interest in Distributed Systems: I also maintain an interest in exploring resource allocation strategies within diverse distributed systems, such as microservices and machine learning systems.
-- Reinforcement Learning
+  - Specializing in resource allocation and task scheduling on streaming systems, machine learning systems, and the cloud.
+  - Utilize tools such as Reinforcement Learning for performance tuning and problem-solving in these domains.
+
 
 
 ## News and Updates
